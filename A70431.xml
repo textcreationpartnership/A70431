@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from [blank] to his friend concerning the state of the town of Glasgows business, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70431</idno><idno type="EEBO-CITATION">99833832</idno>
+  <idno type="VID">38310</idno>
+  <idno type="EEBO-PROQUEST">2248544877</idno>
+  
+            <idno type="STC">Wing L1451A</idno>
+            <idno type="STC">ESTC R222689</idno>
+            <idno type="PROQUEST">99833832</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833832e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38310)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2212:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from [blank] to his friend concerning the state of the town of Glasgows business, &amp;c.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Glasgow :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Copy trimmed at foot with loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Debts, Public --  Scotland --  Glasgow --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:38310:1"/>
+            <pb n="1" facs="tcp:38310:1"/>
+            <head>A Letter from <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> to his Friend con<g ref="char:EOLhyphen"/>cerning the state of the Town of <hi>Glas<g ref="char:EOLhyphen"/>gows</hi> Business, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>YOU being so desirous to know the true account of the noise that goes abroad anent the administration of the Affairs of <hi>Glasgow,</hi> I have prevailed with my self to obtemperat your commands, and that the rather because I having particular opportunities of insight in that matter, it may be known who are to be blamed.</p>
+            <p>There being spread abroad in the Town of <hi>Glasgow,</hi> and other parts in the Countrey, about the Moneth of <hi>November</hi> last 1699. that the present Magistrats and Council of <hi>Glasgow</hi> had much malversed and prejudged the Common Good thereof, by bringing it under great Debt and Burdens, and oppressing the Inhabitants by illegal impositi<g ref="char:EOLhyphen"/>ons, they being conscious to themselves of their innocence and up<g ref="char:EOLhyphen"/>right dealing in all the Towns concerns, and their great labour, pains, and constant diligence to relieve and raise it up from the many great debts and burdens under which it was sunk at their accession to the Government of the place, they thought it convenient rather than to ly under these reproaches and calumnies industriously spread against them, to expose their Accompts and Management to the view and knowledge of both Houses of Merchants and Trades, though they did foresee that it might be attended with some evil consequences.</p>
+            <p>And to that effect both the saids Houses being conveened, they did make choise of six persons of each rank to Revise the Compts and Ma<g ref="char:EOLhyphen"/>nagement, and to report again to both Houses, after the foresaid per<g ref="char:EOLhyphen"/>sons had gone through the whole Affairs committed to them as said is. And it being observed by those who were appointed by the Town-Council to attend them at their several Dyets, and clear up matters to them, that some did take up Notes and Observes from time to time, it <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Compts and before
+<pb n="2" facs="tcp:38310:2"/> departure, that they would make known their remarks, that if there were any thing in them that needed their clearing, or to give them satisfaction, it might be given. It was Answered by one of the Au<g ref="char:EOLhyphen"/>ditors, and who with others had made some observes, and consented to by all, that before they proceeded and did any thing in the matter, they should meet amongst themselves, and Consert their Minuts and Observes; and if there were any thing worthy of notice, they should give it in to these appoin<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by the Town Council, and that after they had considered them, and prepared their Answer, they might call the Auditors together, and what after reasoning should be found need<g ref="char:EOLhyphen"/>ful, to lay before the Houses as their report, should be done, and not while then, which was highly reasonable and just.</p>
+            <p>Though it hath been often times earnestly desired that the saids remarks and observes may be given, that an answer may be given to them, and that the Houses may receive satisfaction, yet to this hour it could never be obtained: By which the Magistrats a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Town-Council are lying under the reproach, and are exposed to malicious Tongues. Therefore Sir, for your satisfaction, and their vindicati<g ref="char:EOLhyphen"/>on, I have given you this Information.</p>
+            <p>The Magistrats and Town-Council of <hi>Glasgow,</hi> at their coming to the Government of the Burgh, <hi>July</hi> 1689. Found the Debts (as far as then came to their knowledge) to be of Principal Sums, bearing Annualrent, and the Annualrents thereof, and other Sums contracted by their Predecessors, as will appear by the <hi>Leger Book, Folio.</hi> 1, 2, &amp; 26. And was made appear to the Auditors the Sum of</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>177083</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>At <hi>Lambmass</hi> or <hi>Michaelmass</hi> 1691. being the two years <hi>John Anderson</hi> of <hi>Dowhill</hi> was Provost, not<g ref="char:EOLhyphen"/>withstanding the great charge the Town was put to at the time of the happy Revolution, &amp; depursments payed out for the Government upon their several orders, which remains still owing to the Town; and the great expence laid out about the time when they obtained from his gracious Majesty their free<g ref="char:EOLhyphen"/>dom of Electing their Magistrats as freely as any Roy<g ref="char:EOLhyphen"/>al Burgh of the Kingdom.</p>
+            <p>The Debt was reduced, as will appear by the Bal<g ref="char:EOLhyphen"/>lance of their Books in the foresaid <hi>Leger Folio</hi> 57, and 58. To the Sum of 1409<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. <hi>lib.</hi> 8 <hi>sh</hi> 6 <hi>d</hi> Prin<g ref="char:EOLhyphen"/>cipal
+<pb n="3" facs="tcp:38310:2"/> Sums, which with the Annualrents thereof, and other Debts not bearing Annualrent, amounts to</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>146254</cell>
+                     <cell>16</cell>
+                     <cell>02</cell>
+                  </row>
+               </table>
+            </p>
+            <p>So there is payed of Debt</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="total">030828</cell>
+                     <cell role="total">15</cell>
+                     <cell role="total">10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>At <hi>Lambmass</hi> or <hi>Michaelmass</hi> 1693. being the two years that <hi>James Peadie</hi> of <hi>Ruchill</hi> was Provost, there being 15136. <hi>lib.</hi> payed for expence and char<g ref="char:EOLhyphen"/>ges about the time of obtaining the two pennies on the Pint of Ale, and paying to <hi>William Anderson</hi> in part of 9000 <hi>merks,</hi> wherewith the foresaid Gift was burdened 1000 <hi>merks,</hi> which is in both 15802 <hi>lib.</hi> 13 <hi>sh.</hi> 4. <hi>d.</hi> The Debt increased to the Sum of 154033. 14. 8. of Principal Sums, which with the Annualrents thereof, and other Debts not bearing Annualrent, as appears by their Ballance in the fore<g ref="char:EOLhyphen"/>said <hi>Leger, Folio</hi> 94. amounts to</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>165051</cell>
+                     <cell>14</cell>
+                     <cell>08</cell>
+                  </row>
+               </table>
+            </p>
+            <p>At <hi>Lambmass</hi> or <hi>Michaelmass</hi> 1695. being the two years <hi>William Napier</hi> was Provost, there being then come to their knowledge of Debts contracted by their Predecessors before the happy Revolution, 10158. 2. 8. over and above what is contained in the preceeding two Paragraphs, whereof there was 8000 <hi>lib.</hi> to the Trades House in <hi>Glasgow,</hi> conform to an Act of Council, for their encouragement to build a ruinous Land at the Cross; And a Debt of 2587 <hi>lib.</hi> 16 <hi>sh.</hi> the Town was decerned in by the Lords of Session to pay Provost <hi>Boyl</hi> of <hi>Irvine,</hi> be<g ref="char:EOLhyphen"/>cause <hi>John Wallace</hi> then Baillie of <hi>Glasgow</hi> in the years 1687, or 1688. suffered <hi>Walter Gibson</hi> to escape, after he was taken with Caption, and Compting 8000 <hi>merks</hi> resting to <hi>William Anderson</hi> of the said 9000 <hi>merks,</hi> wherewith their foresaid Gift was bur<g ref="char:EOLhyphen"/>dened, makes in all 18079 <hi>lib.</hi> 5 <hi>sh.</hi> 4 <hi>d.</hi> The Towns Debts, as will appear by the Ballance of the foresaid Books, <hi>Folio</hi> 132, and 133. amounted to of Prin<g ref="char:EOLhyphen"/>cipal Sums 173814 <hi>lib.</hi> 18 <hi>sh.</hi> 4 <hi>d.</hi> which with the <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and other Debts not <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb n="4" facs="tcp:38310:3"/>
+            <p>At <hi>Lambmas</hi> or <hi>Michaelmas</hi> 1697, being the two years the foresaid <hi>John Anderson</hi> of <hi>Dowhill</hi> was again Provost, there being then of Debt come upon the Town, for the Lands of <hi>Provan,</hi> and others contracted by their Predecessors, 1341 <hi>lib.</hi> 4 <hi>sh.</hi> 6 <hi>d.</hi> as appears by Leger-Book, <hi>Folio</hi> 134. the Town was then in Debt over and above 9000 <hi>lib.</hi> contra<g ref="char:EOLhyphen"/>cted for the Towns fourth part of the 3000 <hi>lib. Ster<g ref="char:EOLhyphen"/>ling</hi> subscribed to the <hi>African and Indian-Company,</hi> as will appear by the Ballance of the said Books Leger, <hi>Folio</hi> 174. of Principal Sums 147785 <hi>lib.</hi> 16 <hi>sh.</hi> 02 <hi>d.</hi> which with the Annualrents and Debts bearing no Annualrent, does amount to</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>161980</cell>
+                     <cell>10</cell>
+                     <cell>02</cell>
+                  </row>
+               </table>
+            </p>
+            <p>There is payed of Principal Sums thir two years 26029 <hi>lib.</hi> together with 18017 <hi>lib.</hi> 6 <hi>sh.</hi> 8 <hi>d.</hi> of Annualrents, as appears by the Journal, <hi>Pages</hi> 140 and 145, and Leger, <hi>Folio</hi> 166 and 169.</p>
+            <p>There remains two years Compts not cleared the time the foresaid <hi>Ja. Peadie</hi> was again Provost, <hi>viz.</hi> from <hi>Michaelmas</hi> 1697 to <hi>Michaelmas</hi> last 1699. because of several Debts standing out owing to the Thesaurers of that time, which they are seeking in, and must charge for before they can Compt.</p>
+            <p>The Towns Debts contracted as said is by their Predecessors, conform to the preceeding Accompt, and as appears by the Leger-Book, <hi>Folio</hi> 1, 2, and 26, is</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>177083</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Item,</hi> Of more Debt contracted by their Prede<g ref="char:EOLhyphen"/>cessors, conform to the foresaid Accompt and Leger, <hi>Folio</hi> 95, is</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>12745</cell>
+                     <cell>18</cell>
+                     <cell>08</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Item,</hi> Of more Debt contracted by them, conform to the preceeding Accompt, and as appears by the Leger, <hi>Folio</hi> 134.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>1341</cell>
+                     <cell>04</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell role="total">191170</cell>
+                     <cell role="total">15</cell>
+                     <cell role="total">02</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="5" facs="tcp:38310:3"/>
+            <p>
+               <hi>Item,</hi> As appears by the foresaid Accompt and Leger-Book, the Expense about the obtaining the Gift of the Two <hi>Pennies</hi> on the Pynt, Cost the Town</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>15136</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Item,</hi> That the Gift was bur<g ref="char:EOLhyphen"/>dened with to pay <hi>William An<g ref="char:EOLhyphen"/>derson.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>6000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>21136</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Total Sum</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="total">212306</cell>
+                     <cell role="total">15</cell>
+                     <cell role="total">02</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The Town was in Debt, as appears by the fore<g ref="char:EOLhyphen"/>said Accompt at <hi>Michaelmas</hi> 1697, and Ballance of the Books, <hi>Folio</hi> 174.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>161980</cell>
+                     <cell>10</cell>
+                     <cell>02</cell>
+                  </row>
+               </table>
+            </p>
+            <p>So there is payed of clear Debt.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="total">50326</cell>
+                     <cell role="total">05</cell>
+                     <cell role="total">00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Now if it be considered, tho that the Gift of the two pennies on the Pint brought the Town in 21000 <hi>lib.</hi> of Debt, yet that is now payed and more, by the frugal Management of the Magistrats and Town Council, and there is yet nine years running of the said Gift from <hi>Martinmass</hi> 1697 to <hi>Martinmass</hi> 1706, wherein much Debt may be payed by frugal Management and Care and Diligence in seeking in the Towns Debts; But the Annualrents of so many and so great principal Sums, the Town is yet owing is such a burden upon the Towns Revenue, that its immpossible to pay them without some o<g ref="char:EOLhyphen"/>ther way and industry be used than by the Revenue, for it is known and evidently appears by the Accompt of the Towns Revenue, and the Auditors of the Accompts will not refuse it, that after what is yearly payed out of it to the Towns and Baronie, Ministers Stipends, Master and Doctor of the Grammer School, Feu-duties payed to the Colledge and others, Tyth, Tack duties and maintinance of the Church<g ref="char:EOLhyphen"/>es and Precenters, and several Sallaries and Burdens yearly upon the said Revenue, which are too long here to be narrated, there remains only but 6000 <hi>lib. Scots</hi> to pay Nine or Ten thousand Pound of yearly Annualrents, and for the support of the Government; and like ways of the foresaid 6000 <hi>lib.</hi> there is 1000 <hi>libs</hi> reckoned for Seats in the Churches, of which the Town of <hi>Glasgow</hi> has received nothing these several years past, and now is appropriat for building <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb n="6" facs="tcp:38310:4"/>
+            <p>But I hear some are pleased to object, that the particulars of the Towns Revenue, as they are valued in the Accompt amount to more.</p>
+            <p>To which it is answered, that the casual Articles of the Revenue are stated as they can render <hi>communibus annis</hi> one year with another, and some years they render more, and some years less, and it is known, that except these three or four years by past, wherein Victu<g ref="char:EOLhyphen"/>al hath been dear, they have alwise rendred about the Sum they are valued at, and this very year 1700 the Towns Milns which is the greatest part of the Towns Casual-Rent, give less then they are va<g ref="char:EOLhyphen"/>lued at in the Accompt, and though some years they may render 1000 Merks or two more, which is the most that they have been knowen to render, what is that to so great a Burden that lyes upon them; And whatever they have or do amount to, is fairly comp<g ref="char:EOLhyphen"/>ted for, as the Auditors knows and will acknowledge, as is evident by the Books; And what other Rents the Town hath, which are not casual, are truly stated as they are set at.</p>
+            <p>It is likeways objected, that the Town is stented together with the Cess for the Burrow Missive Dues, whereas <hi>Edinburgh</hi> and some o<g ref="char:EOLhyphen"/>ther Burghs do not stent for them.</p>
+            <p>To which it is answered, that such Burghs whose Revenues may bear that burden, I think they do well in so doing, and they wish from their hearts that they had such a Revenue that could not only bear the burden of the Burrow Missive Dues, but also the King's Cess, in which case none of the Inhabitants should be burdened with either; For certainly it can be no pleasure to them that such grie<g ref="char:EOLhyphen"/>vous Burdens are laid on, if otherwise it could be helped, for the Magistrats bear as heavy a part thereof as any others, and some of them more then any in the Town; Whereas in other Towns the Magi<g ref="char:EOLhyphen"/>strats for the time being, are free of such Stents and Burdens.</p>
+            <p>Some are also pleased to say, that tho they have not a Fund to pay the Burrow Missive Dues, they should borrow it.</p>
+            <p>It is answered, what would that amount to at the long run, would not that at last ruine the Town; Beside they consider not that they are bound by an Act of Parliament to contract no Debt, but to pay principal Sums with the effects of the two pennies on the Pint: As also that many Burghs of <hi>Scotland</hi> not only Stent for the Burrow Missive dues, but for the very Annualrent of the Money they are ow<g ref="char:EOLhyphen"/>ing, and for their Commissioner Fies to Parliament <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb n="7" facs="tcp:38310:4"/>
+            <p>It is likewise evident and is made appear, that notwithstanding of all the Stents have been laid on the Inhabitants from time to time, which they acknowledge to their Grief and Sorrow have been great and heavy, yet these Stents have never been able to come the length of paying the said dues, but the Common-Good hath been burdened with above five hundred pound <hi>Sterling</hi> lost by them, and do daily loss by them, as does appear by the several Accompts of the saids Stents.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
